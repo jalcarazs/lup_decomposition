@@ -1,3 +1,3 @@
 # LUP Decomposition
 
-Decompose a matrix in LUP form.
+Decompose a matrix into LUP form.
